@@ -7,3 +7,8 @@ A technology demonstrator rocket to study aerosaol content of the Peermade hills
 ## Current Status
 - [ ] Phase 1: Simulation of Rocket body design
 - [ ] Phase 2: Fabrication of Rocket body.
+- [ ] Phase 3: Trajectory simulation
+
+## Team
+- **Faculty Advisor:** [Prof.Dr.Oommen Tharakan KT]
+- **Project Lead:** [Prof.Dr.OOmmen Tharakan KT]
