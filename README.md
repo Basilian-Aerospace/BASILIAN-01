@@ -11,7 +11,7 @@ A technology demonstrator rocket to study aerosol content of the Peermade hills 
 
 ## Team
 - **Faculty Advisor:** [Prof.Dr.Oommen Tharakan KT]
-- **Project Lead:** [Prof.Dr.OOmmen Tharakan KT]
+- **Project Lead:** [Prof.Dr.Oommen Tharakan KT]
 - **Student Contributors:** [ Aadil Mohamed, Bevel Sam Philip, Sibi John, Rahul, Kenitta Anna Koshy]
 
 ## Documentation
