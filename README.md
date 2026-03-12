@@ -2,7 +2,7 @@
 A student-engineered Technology Demonstrator Rocket BASILIAN-01 launched from Mar Baselios Christian College of Engineering and Technology, Pallikkunnu PO, Kuttikkanam, Peermade, Idukki, Kerala, India
 
 ## Project Overview
-A technology demonstrator rocket to study aerosaol content of the Peermade hills thus to help in the evaluation and improvement in the conditions for local spice cultivation.
+A technology demonstrator rocket to study aerosol content of the Peermade hills thus to help in the evaluation and improvement in the conditions for local spice cultivation.
 
 ## Current Status
 - [ ] Phase 1: Simulation of Rocket body design
