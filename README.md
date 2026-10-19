@@ -10,8 +10,8 @@ A technology demonstrator rocket to study aerosol content of the Peermade hills 
 - [ ] Phase 3: Trajectory simulation
 
 ## Team
-- **Faculty Advisor:** [Prof.Dr.Oommen Tharakan KT]
-- **Project Lead:** [Prof.Dr.Oommen Tharakan KT]
+- **Faculty Advisor:** [Prof.Dr.Oommen Tharakan Kuttiyil Thomas]
+- **Project Lead:** [Prof.Dr.Oommen Tharakan Kuttiyil Thomas]
 - **Student Contributors:** [Bevel Sam Philip, Kenitta Anna Koshy]
 
 ## Documentation
